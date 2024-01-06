@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 # **DOGS** | Proyecto Individual
@@ -254,3 +255,6 @@ Ten en cuenta que en esta instancia no es obligatorio el desarrollo de testing p
 # DOG-Front
 Front end PI Dogs
 >>>>>>> d1466dada5c3a895852daf7d5ffd623e39f3186a
+=======
+# DOG-Front
+>>>>>>> c61dd170faa120153b8709777ad43c5c4bd71259
